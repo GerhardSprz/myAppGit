@@ -10,7 +10,7 @@ body {
 }
 
 .carrusel {
-  width: 400px;
+  width: 500px;
   height: 250px;
   overflow: hidden;
   border-radius: 12px;
@@ -35,3 +35,4 @@ body {
   opacity: 1;
   position: relative;
 }
+
